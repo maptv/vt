@@ -25,10 +25,12 @@ activities will be conducted online.
 - Start Time: 16:00 Eastern Time
 - End Time: 17:15 Eastern Time
 
-Class will be held - on Mondays and Wednesdays - according to the [VT
-Academic
-Calendar](https://www.registrar.vt.edu/dates-deadlines/academic-calendar.html) -
-via Zoom: https://virginiatech.zoom.us/j/86864816900
+Class will be held
+
+- on Mondays and Wednesdays
+- according to the [VT Academic
+  Calendar](https://www.registrar.vt.edu/dates-deadlines/academic-calendar.html)
+- via Zoom: https://virginiatech.zoom.us/j/86864816900
 
 ## Learning Aims
 
