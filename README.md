@@ -30,23 +30,64 @@ Class will be held
 - on Mondays and Wednesdays
 - according to the [VT Academic
   Calendar](https://www.registrar.vt.edu/dates-deadlines/academic-calendar.html)
-- via Zoom: https://virginiatech.zoom.us/j/86864816900
+- via Zoom:
+  https://virginiatech.zoom.us/j/86864816900?pwd=VmFjWGlhc1JCNnJVc2JzcE5SNGhadz09
 
 ## Learning Aims
 
-By the end of the course, students will: - Be well-versed with common
-machine learning problems, concepts, and algorithms - Be able to compare
-and contrast different machine learning algorithms and identify their
-strengths and limitations in varying problem settings - Gain practical
-understanding of machine learning algorithms through course project
+By the end of the course, students will:
+
+- Be well-versed with common machine learning problems, concepts, and
+  algorithms
+- Be able to compare and contrast different machine learning algorithms
+  and identify their strengths and limitations in varying problem
+  settings
+- Gain practical understanding of machine learning algorithms through a
+  course project
 
 ## Materials
 
-Textbook (optional): [Hands-on Machine Learning with Scikit-Learn, Keras
-and TensorFlow (3rd edition)](https://homl.info/er3)
+- Textbook (optional): [Hands-on Machine Learning with Scikit-Learn,
+  Keras and TensorFlow (3rd edition)](https://homl.info/er3)
+- Code: https://github.com/maptv/handson-ml3
+- Anaconda: https://www.anaconda.com/download#downloads
+- R: https://cran.rstudio.com/
+- RStudio: https://posit.co/download/rstudio-desktop/
 
-All of the code we will use is available here:
-https://github.com/ageron/handson-ml3
+Anaconda includes VSCode and Jupyter (Lab and Notebook), and can be used
+to install RStudio, but I recommend that you install RStudio using the
+link above, instead of via Anaconda.
+
+If you already use a different Python distribution that includes conda,
+such as [miniconda](https://docs.conda.io/en/latest/miniconda.html),
+[miniforge](https://github.com/conda-forge/miniforge#miniforge), or
+[mambaforge](https://github.com/conda-forge/miniforge#mambaforge), you
+do not have to use Anaconda. Personally, I use mambaforge. Nevertheless,
+Anaconda is a better choice for the vast majority of people.
+
+### Modules
+
+- 01: The machine learning landscape
+- 02: End to end machine learning project
+- 03: Classification
+- 04: Training linear models
+- 05: Support vector machines
+- 06: Decision trees
+- 07: Ensemble learning and random forests
+- 08: Dimensionality reduction
+- 09: Unsupervised learning
+- 10: Neural nets with Keras
+- 11: Training deep neural networks
+- 12: Custom models and training with Tensorflow
+- 13: Loading and preprocessing data
+- 14: Deep computer vision with CNNs
+- 15: Processing sequences using RNNs and CNNs
+- 16: NLP with RNNs and attention
+- 17: Autoencoders GANs and diffusion models
+- 18: Reinforcement learning
+- 19: Training and deploying at scale
+
+It is very unlikely that we will get through all of the modules.
 
 ## Background Required
 
@@ -56,12 +97,55 @@ quickly.
 
 ## Grading
 
-There will not be any quizzes or exams, only programming assignments.
-The course TA(s) will provide feedback for assignments, but final
-grading for assignments will be determined by the instructor. Grading in
-this course is binary, i.e. either honest effort was demonstrated or it
-was not. The main deliverable will be a machine learning blog that
-students will publish online.
+There will not be any quizzes or exams. Instead, students must create a
+machine learning blog using Quarto publish it on GitHub Pages. This blog
+is the only graded deliverable for the course. The grading for the blog
+will be as follows:
+
+- 1 point: a blog hosted on GitHub Pages
+- 3 points: 3 blog posts that are each worth 1 point
+
+To get a full point for the blog, its content and the code used to
+publish it must be available in a GitHub repository.
+
+To get a full point for a blog post (full-point post), it must have -
+machine learning code and - at least one data visualization.
+
+A blog post without any machine learning code or without any data
+visualizations will only get half a point (half-point post).
+
+Example grades:
+
+- A (4 points):
+  - A blog with 3 full-point posts that each have
+    - machine learning code and
+    - at least 1 data visualization
+- B (3 points):
+  - A GitHub repository with the content for 3 full-point posts, but no
+    blog
+  - A blog with 2 full-point posts
+  - A blog with
+    - 1 full-point post and
+    - 2 half-points posts
+- C (2 points):
+  - A GitHub repository with the content for 2 full-point posts, but no
+    blog
+  - A GitHub repository with the content for
+    - 1 full-point post
+    - 2 half-point posts
+  - A blog with 1 full-point blog post
+  - A blog with 2 half-point blog post
+- D (1 points):
+  - A GitHub repository with the content for 1 full-point post, but no
+    blog
+  - A GitHub repository with the content for 2 half-point posts, but no
+    blog
+  - A blog with no machine learning content
+- F (0 points):
+  - No deliverables
+
+The course GTA(s) will provide feedback for the assignments, but final
+grading for the course project will be determined by the instructor.
 
 ### Attendance and Class Participation
 
@@ -71,10 +155,11 @@ always review class recordings instead if your prefer.
 
 ### Late Policy
 
-Late submissions will not be penalized. As long as you submitted
-assignments before the last class, I will give full credit. If you wait
-until the last class to submit assignments, you will miss out on
-valuable feedback from the
+Late submissions will not be penalized. As long as you submit the course
+project before the last class, I will give full credit. If you wait
+until the day of the last class to do all of the work, you will miss out
+on valuable feedback from the GTA(s) and probably not benefit much from
+the experience of rushing through the process.
 
 ## Zoom Best Practices
 
@@ -226,4 +311,4 @@ TA(s) can provide answers.
 
 **Canvas privacy policy:**
 <a href="http://www.canvaslms.com/policies/intl-privacy"
-class="external">http://www.canvaslms.com/policies/intl-privacy</a>.
+class="external">http://www.canvaslms.com/policies/intl-privacy</a>
